@@ -24,8 +24,9 @@ npm ou yarn
 ## Installation
 Clonez le dépôt :
 bash
-Copier le code
+
 git clone https://github.com/Makazek/Gestion-Contact.git
+
 Accédez au répertoire du projet : 
 
 cd contact-manager

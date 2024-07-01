@@ -49,7 +49,7 @@ ou si vous utilisez Yarn :
 
 yarn dev
 
-Ouvrez votre navigateur et accédez à http://localhost:3000 pour voir l'application en action.
+Ouvrez votre navigateur et accédez à http://localhost:5173 pour voir l'application en action.
 
 ## Contribuer
 Les contributions sont les bienvenues ! Si vous avez des suggestions ou des améliorations, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.

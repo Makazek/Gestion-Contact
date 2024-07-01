@@ -18,7 +18,7 @@ npm ou yarn
 Clonez le dépôt :
 bash
 Copier le code
-git clone https://github.com/votre-utilisateur/contact-manager.git
+git clone https://github.com/Makazek/Gestion-Contact.git
 Accédez au répertoire du projet :
 bash
 Copier le code

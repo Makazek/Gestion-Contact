@@ -37,12 +37,12 @@ npm install
 
 ou si vous utilisez Yarn :
 
-Copier le code
+
 yarn install
 
 ## Utilisation
 Démarrez le serveur de développement :
-arduino
+
 
 npm run dev
 ou si vous utilisez Yarn :

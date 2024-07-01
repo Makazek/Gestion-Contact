@@ -3,12 +3,19 @@ Cette application est un gestionnaire de contacts simple développé en React av
 
 ## Fonctionnalités
 Ajouter un contact
+
 Modifier un contact
+
 Supprimer un contact
+
 Rechercher des contacts par nom
+
 Trier les contacts par nom ou date d'ajout
+
 Pagination pour les contacts
+
 Prérequis
+
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
 Node.js (version 14 ou supérieure)

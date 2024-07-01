@@ -5,7 +5,7 @@ import ContactList from './components/ContactList';
 import './App.css';
 
 const App = () => {
-  const [contacts, setContacts] = useState([]);
+  const [contacts, setContacts] = useState(JSON.parse(localStorage.getItem('contacts')));
   const [searchTerm, setSearchTerm] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
   const [sortOption, setSortOption] = useState('name');

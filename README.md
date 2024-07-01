@@ -26,13 +26,14 @@ Clonez le dépôt :
 bash
 Copier le code
 git clone https://github.com/Makazek/Gestion-Contact.git
-Accédez au répertoire du projet :
-bash
-Copier le code
+Accédez au répertoire du projet : 
+
 cd contact-manager
+
 Installez les dépendances :
-Copier le code
+
 npm install
+
 ou si vous utilisez Yarn :
 
 Copier le code
@@ -41,12 +42,12 @@ yarn install
 ## Utilisation
 Démarrez le serveur de développement :
 arduino
-Copier le code
+
 npm run dev
 ou si vous utilisez Yarn :
 
-Copier le code
 yarn dev
+
 Ouvrez votre navigateur et accédez à http://localhost:3000 pour voir l'application en action.
 
 ## Contribuer
